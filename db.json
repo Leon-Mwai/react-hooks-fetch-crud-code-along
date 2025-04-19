@@ -35,6 +35,12 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "eggplant",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
     }
   ]
 }
